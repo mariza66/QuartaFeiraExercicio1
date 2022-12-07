@@ -1,0 +1,11 @@
+C:\Users\mariza.vcosta\source\repos\Exercicio2.02-12\Exercicio2.02-12\bin\Debug\Exercicio2.02-12.exe.config
+C:\Users\mariza.vcosta\source\repos\Exercicio2.02-12\Exercicio2.02-12\bin\Debug\Exercicio2.02-12.exe
+C:\Users\mariza.vcosta\source\repos\Exercicio2.02-12\Exercicio2.02-12\bin\Debug\Exercicio2.02-12.pdb
+C:\Users\mariza.vcosta\source\repos\Exercicio2.02-12\Exercicio2.02-12\obj\Debug\Exercicio2.02-12.csproj.AssemblyReference.cache
+C:\Users\mariza.vcosta\source\repos\Exercicio2.02-12\Exercicio2.02-12\obj\Debug\Exercicio2.02-12.csproj.SuggestedBindingRedirects.cache
+C:\Users\mariza.vcosta\source\repos\Exercicio2.02-12\Exercicio2.02-12\obj\Debug\Exercicio2._02_12.Form1.resources
+C:\Users\mariza.vcosta\source\repos\Exercicio2.02-12\Exercicio2.02-12\obj\Debug\Exercicio2._02_12.Properties.Resources.resources
+C:\Users\mariza.vcosta\source\repos\Exercicio2.02-12\Exercicio2.02-12\obj\Debug\Exercicio2.02-12.csproj.GenerateResource.cache
+C:\Users\mariza.vcosta\source\repos\Exercicio2.02-12\Exercicio2.02-12\obj\Debug\Exercicio2.02-12.csproj.CoreCompileInputs.cache
+C:\Users\mariza.vcosta\source\repos\Exercicio2.02-12\Exercicio2.02-12\obj\Debug\Exercicio2.02-12.exe
+C:\Users\mariza.vcosta\source\repos\Exercicio2.02-12\Exercicio2.02-12\obj\Debug\Exercicio2.02-12.pdb
